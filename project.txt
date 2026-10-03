@@ -3,3 +3,7 @@ Version 1.0
 This change was added via a Pull Request.
 Pull Request workflow demonstration.
 Pull Request updated with an additional change.
+User information section
+Project information section
+User information section: add the required information about project users and their roles.
+Project details section: provide a clear description of the project's purpose, scope, and main features.
