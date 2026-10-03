@@ -5,3 +5,5 @@ Pull Request workflow demonstration.
 Pull Request updated with an additional change.
 User information section
 Project information section
+User information needs clarification.
+Project details should be explained more clearly.
